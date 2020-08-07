@@ -158,7 +158,7 @@ $ cd gorestaurant
 # Vá para a pasta do frontend
 $ cd web
 
-# Instale as dependências (caso não as tenha instalado ainda)
+# Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
