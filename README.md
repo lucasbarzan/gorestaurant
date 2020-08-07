@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    🥣 App web/mobile de cardápio para restaurante que permite a criação, remoção e atualização dos pratos 🍽️
+    🥣 App web/mobile de cardápio para restaurante que permite criar, atualizar e remover pratos, além de fazer pedidos 🍽️
 </h3>
 
 <p align="center">
@@ -50,7 +50,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto <a name="sobre-o-projeto"></a>
 
-🥣 O GoRestaurant é um app de cardápio para restaurante com interface tanto para web quanto para mobile que permite a criação, remoção e atualização de pratos de comida.
+🥣 O GoRestaurant é um app de cardápio para restaurante com interface para web que permite a criação, remoção e atualização de pratos de comida, e interface mobile que permite a realização de pedidos e escolha de pratos favoritos.
 
 
 Projeto desenvolvido durante o bootcamp **GoStack** oferecido pela [Rocketseat](https://rocketseat.com.br/).
