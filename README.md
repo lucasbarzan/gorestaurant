@@ -35,7 +35,7 @@ Tabela de conteúdos
      * [Mobile](#layout-mobile)
    * [Como executar o projeto](#como-executar-o-projeto)
      * [Pré-requisitos](#pre-requisitos)
-     * [Rodando o Backend (servidor)](#rodando-o-backend-servidor)
+     * [Rodando a fake API (servidor)](#rodando-o-backend-servidor)
      * [Rodando a aplicação web (Frontend)](#rodando-a-aplicacao-web-frontend)
    * [Tecnologias](#tecnologias)
      * [Website](#tecnologias-website)
