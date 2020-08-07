@@ -35,8 +35,9 @@ Tabela de conteúdos
      * [Mobile](#layout-mobile)
    * [Como executar o projeto](#como-executar-o-projeto)
      * [Pré-requisitos](#pre-requisitos)
-     * [Rodando a fake API (servidor)](#rodando-o-backend-servidor)
+     * [Rodando a fake API](#rodando-o-backend)
      * [Rodando a aplicação web (Frontend)](#rodando-a-aplicacao-web-frontend)
+     * [Rodando a aplicação mobile (Frontend)](#rodando-a-aplicacao-mobile)
    * [Tecnologias](#tecnologias)
      * [Website](#tecnologias-website)
      * [Mobile](#tecnologias-mobile)
@@ -120,7 +121,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-#### 🎲 Rodando a fake API (servidor) <a name="rodando-o-backend-servidor"></a>
+#### 🎲 Rodando a fake API <a name="rodando-o-backend"></a>
 
 ```bash
 
@@ -166,6 +167,12 @@ $ npm run start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
+
+
+#### 📱 Rodando a aplicação mobile (Frontend) <a name="rodando-a-aplicacao-mobile"></a>
+
+Siga as instruções [deste link](https://react-native.rocketseat.dev/) para configurar o ambiente de desenvolvimento mobile em React Native e poder rodar a aplicação na sua máquina.
+
 
 ---
 
